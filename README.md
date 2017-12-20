@@ -43,9 +43,10 @@ http://localhost:8080/person/xml?id=1
 Result:
 
 
-"<person>
+<pre><code><person>
 <name>Sagar</name>
 <salary>60000</salary>
 <age>25</age>
-</person>"
+</person>
+</code></pre>
 
